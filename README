@@ -1,0 +1,7 @@
+A WORD OF CAUTION
+
+  This is currently just a code drop of our python utilities. Most of
+  these will work independently, but some may require import
+  reshuffling. If you have any interest in making this an indepdently
+  installable python package, please send us a message (through
+  GitHub), and we'll be glad to help!
